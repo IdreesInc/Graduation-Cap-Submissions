@@ -1,0 +1,24 @@
+{
+    "submissions": [
+        {
+            "name": "Idrees Hassan",
+            "design": "idreesinc-logo.png"
+        },
+        {
+            "name": "Michael Nguyen",
+            "design": "idrees-is-big.png"
+        },
+        {
+            "name": "Jenna Tan Michaels",
+            "message": "Despite everything, we did it"
+        },
+        {
+            "name": "Anthony Michaels",
+            "design": "octopus.jpg"
+        },
+        {
+            "name": "Mary Gibeau",
+            "design": "shrek.jpg"
+        }
+    ]
+}
