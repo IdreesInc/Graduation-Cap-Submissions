@@ -19,6 +19,14 @@
         {
             "name": "Mary Gibeau",
             "design": "shrek.jpg"
+        },
+        {
+            "name": "Anonymous",
+            "design": "slime.png"
+        },
+        {
+            "name": "Alfred Joseph",
+            "design": "sus.png"
         }
     ]
 }
