@@ -1,23 +1,23 @@
 {
     "submissions": [
         {
-            "name": "Idrees Hassan",
+            "name": "Idrees H.",
             "design": "idreesinc-logo.png"
         },
         {
-            "name": "Michael Nguyen",
+            "name": "Michael N.",
             "design": "idrees-is-big.png"
         },
         {
-            "name": "Jenna Tan Michaels",
+            "name": "Jenna M.",
             "message": "Despite everything, we did it"
         },
         {
-            "name": "Anthony Michaels",
+            "name": "Anthony M.",
             "design": "octopus.jpg"
         },
         {
-            "name": "Mary Gibeau",
+            "name": "Mary G.",
             "design": "shrek.jpg"
         },
         {
@@ -25,12 +25,28 @@
             "design": "slime.png"
         },
         {
-            "name": "Alfred Joseph",
+            "name": "Alfred J.",
             "design": "sus.png"
         },
         {
-            "name": "Shaun Purewal",
+            "name": "Shaun P.",
             "design": "derby-county-football-club.png"
+        },
+        {
+            "name": "Sinan",
+            "design": "a-student.png"
+        },
+        {
+            "name": "Pieter S.",
+            "design": "obi-wan.png"
+        },
+        {
+            "name": "Patrick H.",
+            "message": "JAKE BOGERD HOARDS MILK"
+        },
+        {
+            "name": "Anonymous",
+            "message": "unc-womens-rugby.png"
         }
     ]
 }
