@@ -91,6 +91,10 @@
         {
             "name": "Anonymous",
             "design": "regsource.png"
+        },
+        {
+            "name": "Anonymous",
+            "design": "rakkars.png"
         }
     ]
 }
