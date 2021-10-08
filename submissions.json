@@ -10,6 +10,10 @@
         },
         {
             "name": "Idrees H.",
+            "design": "qr-code.png"
+        },
+        {
+            "name": "Idrees H.",
             "design": "ram.png"
         },
         {
@@ -119,6 +123,10 @@
         {
             "name": "Abroon T.",
             "design": "pink-yoshi.png"
+        },
+        {
+            "name": "Idrees H.",
+            "design": "rick-roll.png"
         }
     ]
 }
